@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.backgroungimg{
+  background-image: url("https://images.ctfassets.net/6e7jqm4y92l8/RKL7VSmAjDYfpfR3nI0X0/5489fd83c3307be1c3718780c27e0078/210415_mb_blog_reactredux_cover16_9.jpg");
+  object-fit: cover;
+}
